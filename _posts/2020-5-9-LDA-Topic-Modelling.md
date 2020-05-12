@@ -8,4 +8,4 @@ excerpt: LDA intro
 Content related to LDA
 
 
-<a href="../lda_8_topics.html">LDA_Results</a>
+<a href="../lda_8_topics.html">LDA Results</a>
