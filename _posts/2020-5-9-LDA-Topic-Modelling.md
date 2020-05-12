@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LDA related Content
+title: LDA Topic Modelling
 #categories: Miscellaneous
 excerpt: LDA intro
 ---
