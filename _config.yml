@@ -21,14 +21,14 @@ avatar: /images/ir_icon.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agrawalkratika1008@gmail.com
+  email:
   facebook:
   flickr:
   github: kratika1008
   instagram:
   linkedin:
   pinterest:
-  rss: rss
+  rss: 
   twitter:
   stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
