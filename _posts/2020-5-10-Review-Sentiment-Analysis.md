@@ -5,7 +5,7 @@ title: Review Sentiment Analysis
 excerpt: Review Text is a free content that allows users to express as much as they want. Rating is a quantitative measure of the goodness of the product or service. But does the rating define the quality the same way as much as the review text does? It's important to analyze the review content and calculate the rating value based on that......
 ---
 Review Text is a free content that allows users to express as much as they want. Rating is a quantitative measure of the goodness of the product or service. But does the rating define the quality the same way as much as the review text does?
-It's important to analyze the review content and calculate the rating value based on that......
+It's important to analyze the review content and calculate the rating value based on that.
 
 The user has provided a review related to a product with a product rating:
 
